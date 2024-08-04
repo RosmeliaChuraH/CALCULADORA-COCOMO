@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|c:\\users\\mi-pc\\desktop\\tareas upea i-2024\\ing. sotware-2024\\cocomo\\calculadoracocomo\\calculadoracocomo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\calculadoracocomo\\calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58D97-0059-46CA-8E58-F101084FCF66}|CalculadoraCocomo\\CalculadoraCocomo.csproj|solutionrelative:calculadoracocomo\\calculadora.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\calculadora.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.cs",
+              "RelativeToolTip": "CalculadoraCOCOMO\\calculadora.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:42:12.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\Login.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:46:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\calculadora.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraCOCOMO\\calculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:05:52.177Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.Designer.cs",
+              "RelativeToolTip": "CalculadoraCOCOMO\\Login.Designer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:46:36.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\Program.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Program.cs",
+              "RelativeToolTip": "CalculadoraCOCOMO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:28:29.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\Login.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\Login.cs",
+              "RelativeToolTip": "CalculadoraCOCOMO\\Login.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:46:30.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "calculadora.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoraCOCOMO\\calculadora.Designer.cs",
+              "ToolTip": "C:\\Users\\Mi-Pc\\Desktop\\TAREAS UPEA I-2024\\ING. SOTWARE-2024\\COCOMO\\CalculadoraCOCOMO\\CalculadoraCOCOMO\\calculadora.Designer.cs",
+              "RelativeToolTip": "CalculadoraCOCOMO\\calculadora.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T06:24:57.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
